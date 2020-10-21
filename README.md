@@ -5,12 +5,14 @@
 
 &nbsp;&nbsp;&nbsp; 알고리즘 문제 소스 코드들이 있는 곳입니다.  
 
-<br/><br/>
+<br/><br/>  
+
+
 Project
 -----------
 <br/>
 
- #### BOJ : 백준 온라인 저지 (BeakJoon Online Judge)  
+#### BOJ : 백준 온라인 저지 (BeakJoon Online Judge)  
 
 
 
@@ -23,7 +25,8 @@ Project
 
 -----------------
 
-#### 문제 풀이에 대한 자세한 내용은 블로그에 기재하고 있습니다.
+#### 문제 풀이에 대한 자세한 내용은 블로그에 기재하고 있습니다.  
+<br/>
 
 - [Stranger's LAB](http://st-lab.tistory.com)
 
