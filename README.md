@@ -1,10 +1,7 @@
 # Algorithm_Judge
 
 
-
-algorithm problem solving
-------------------------------   
-   
+<br/><br/> 
 
 &nbsp;&nbsp;&nbsp; 알고리즘 문제 소스 코드들이 있는 곳입니다.  
 
