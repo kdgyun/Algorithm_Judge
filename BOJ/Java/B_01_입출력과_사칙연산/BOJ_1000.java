@@ -12,6 +12,7 @@ public class BOJ_1000 {
 		int a = br.read() - '0';
 		br.read();
 		int b = br.read() - '0';
+		
 		System.out.println(a + b);
 
 	}
