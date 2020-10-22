@@ -15,7 +15,6 @@ public class BOJ_1330 {
 		int A = Integer.parseInt(st.nextToken());
 		int B = Integer.parseInt(st.nextToken());
 
-
 		System.out.println((A > B) ? ">" : ((A < B) ? "<" : "=="));
 	}
 
