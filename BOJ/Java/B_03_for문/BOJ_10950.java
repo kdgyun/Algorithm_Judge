@@ -1,5 +1,14 @@
 package B_03_for문;
 
+/**
+ * BOJ 10950 : A+B - 3
+ * 
+ * @author kdgyun
+ * {@link https://st-lab.tistory.com}
+ * {@link https://github.com/kdgyun}
+ *
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

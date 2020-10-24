@@ -1,5 +1,14 @@
 package B_03_for문;
 
+/**
+ * BOJ 8393 : 합
+ * 
+ * @author kdgyun
+ * {@link https://st-lab.tistory.com}
+ * {@link https://github.com/kdgyun}
+ *
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

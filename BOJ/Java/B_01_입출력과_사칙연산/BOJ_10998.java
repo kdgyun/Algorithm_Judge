@@ -1,5 +1,14 @@
 package B_01_입출력과_사칙연산;
 
+/**
+ * BOJ 10998 : A×B 
+ * 
+ * @author kdgyun
+ * {@link https://st-lab.tistory.com}
+ * {@link https://github.com/kdgyun}
+ *
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

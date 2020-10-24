@@ -1,5 +1,14 @@
 package B_01_입출력과_사칙연산;
 
+/**
+ * BOJ 10869 : 사칙연산
+ * 
+ * @author kdgyun
+ * {@link https://st-lab.tistory.com}
+ * {@link https://github.com/kdgyun}
+ *
+ */
+
 import java.util.Scanner;
 
 public class BOJ_10869 {

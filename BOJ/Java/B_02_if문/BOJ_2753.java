@@ -1,5 +1,14 @@
 package B_02_if문;
 
+/**
+ * BOJ 2753 : 윤년
+ * 
+ * @author kdgyun
+ * {@link https://st-lab.tistory.com}
+ * {@link https://github.com/kdgyun}
+ *
+ */
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
