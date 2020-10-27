@@ -1,7 +1,7 @@
 package B_05_1차원_배열;
 
 /**
- * BOJ 8958 : OX퀴즈
+ * BOJ 4344 : 평균은 넘겠지
  * 
  * @author kdgyun 
  * {@link https://st-lab.tistory.com}
