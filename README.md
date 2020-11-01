@@ -16,7 +16,6 @@ Project
 
 
 
-> - BOJ 에서는 **단계별로 풀어보기**를 우선하여 분류가 됩니다.
 > - Java를 기준으로 하며 필요에 따라 C++, C로 풀이될 수도 있습니다.
 > - BOJ 언어 도움말 : https://www.acmicpc.net/help/language
 > - Java8 API : [Java API](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
