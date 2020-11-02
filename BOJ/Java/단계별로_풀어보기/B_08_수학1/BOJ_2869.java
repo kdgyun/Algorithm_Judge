@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_08_수학1;
 
 /**
- * BOJ 2869 : 달팽이는 올라가고 싶
+ * BOJ 2869 : 달팽이는 올라가고 싶다 
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
