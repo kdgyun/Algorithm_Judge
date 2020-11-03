@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_08_수학1;
 
 /**
- * BOJ 2775 : 부녀회장이 될테야 
+ * BOJ 1011 : FLY me to the Alpha Centauri
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
