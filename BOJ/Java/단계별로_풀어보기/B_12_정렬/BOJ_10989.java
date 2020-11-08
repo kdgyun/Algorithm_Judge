@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_12_정렬;
 
 /**
- * BOJ 2751 : 수 정렬하기 2
+ * BOJ 10989 : 수 정렬하기 3
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
