@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_15_그리디_알고리즘;
 
 /**
- * BOJ 1931 : 회의실배정 
+ * BOJ 1931 : 회의실배정  
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
