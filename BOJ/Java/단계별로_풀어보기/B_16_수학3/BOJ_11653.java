@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_16_수학3;
 
 /**
- * BOJ 11653 : 소인수분  
+ * BOJ 11653 : 소인수분해
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
