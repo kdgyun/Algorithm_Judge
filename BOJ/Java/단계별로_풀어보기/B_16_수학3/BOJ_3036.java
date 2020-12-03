@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_16_수학3;
 
 /**
- * BOJ 5086 : 배수와 약수  
+ * BOJ 3036 : 링   
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
