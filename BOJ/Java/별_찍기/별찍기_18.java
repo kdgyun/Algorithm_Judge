@@ -16,14 +16,13 @@ import java.util.Arrays;
 
 public class 별찍기_18 {
 
-	static char[][] star;
+	private static char[][] star;
 
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 		int N = Integer.parseInt(br.readLine());
-
 		int h = (1 << N) - 1;
 		int w = 2 * h - 1;
 
@@ -63,7 +62,7 @@ public class 별찍기_18 {
 
 	}
 
-	static void make(int n, int x, int y, boolean up) {
+	private static void make(int n, int x, int y, boolean up) {
 		star[x][y] = '*';
 
 		if (n == 1) {
@@ -91,7 +90,8 @@ public class 별찍기_18 {
 
 		if (up) {
 			x++;
-		} else {
+		} 
+		else {
 			x--;
 		}
 
