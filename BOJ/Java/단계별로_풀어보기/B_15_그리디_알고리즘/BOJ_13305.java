@@ -38,9 +38,14 @@ public class BOJ_13305 {
 		}
 		
 		long sum = 0;
-		long minCost = cost[0];
+		long minCost = cost[0];	// 이전 까지의 과정 중 주유 최소 비용 
 
 		for(int i = 0; i < N - 1; i++) {
+			
+			/*
+			 *  현재 주유소가 이전 주유소의 기름값보다 쌀 경우
+			 *  minCost를 갱신해준다. 
+			 */
 			if(cost[i] < minCost) {
 				minCost = cost[i];
 			}
