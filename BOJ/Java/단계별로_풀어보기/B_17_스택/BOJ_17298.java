@@ -33,7 +33,6 @@ public class BOJ_17298 {
 		for (int i = 0; i < N; i++) {
 			while (top != - 1 && seq[stack[top]] < seq[i]) {
 				seq[stack[top--]] = seq[i];
-				top--;
 			}
 			stack[++top] = i;
 		}
