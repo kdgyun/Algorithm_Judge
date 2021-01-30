@@ -9,6 +9,12 @@ package 단계별로_풀어보기.B_08_수학1;
  *
  */
 
+/*
+ * 이 문제의 경우 BigInteger을 쓰면 간단히 해결 할 수도 있으나,
+ * 여기서는 직접 연산과정을 구현하도록 함.
+ * 
+ */
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
