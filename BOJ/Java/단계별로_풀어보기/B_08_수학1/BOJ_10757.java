@@ -28,40 +28,42 @@ public class BOJ_10757 {
 		
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 		
-		String first = st.nextToken();
-		String second = st.nextToken();
+		String str_A = st.nextToken();
+		String str_B = st.nextToken();
 		
-		int maxLen = Math.max(first.length(), second.length());
+		// 두 개의 수 중 가장 긴 자리수 길이를 구해둠
+		int max_length = Math.max(str_A.length(), str_B.length());
 		
 		
-		int[] f = new int[maxLen + 1];
-		int[] s = new int[maxLen + 1];
+		int[] A = new int[max_length + 1];	// 마지막 자리수 올림이 있을 수 있으므로 +1
+		int[] B = new int[max_length + 1];	// 마지막 자리수 올림이 있을 수 있으므로 +1
 		
-		int idx = 0;
-		for(int i = first.length() - 1; i >= 0; i--) {
-			f[idx++] = first.charAt(i) - '0';
+		// A 초기화 
+		for(int i = str_A.length() - 1, idx = 0; i >= 0; i--, idx++) {
+			A[idx] = str_A.charAt(i) - '0';	// 맨 뒤 문자부터 역순으로 하나씩 저장
 		}
 		
-		idx = 0;
-		for(int i = second.length() - 1; i >= 0; i--) {
-			s[idx++] = second.charAt(i) - '0';
+		// B 초기화
+		for(int i = str_B.length() - 1, idx = 0; i >= 0; i--, idx++) {
+			B[idx] = str_B.charAt(i) - '0';	// 맨 뒤 문자부터 역순으로 하나씩 저장
 		}
 		
 		
-		for(int i = 0; i < maxLen; i++) {
-			int value = f[i] + s[i];
-			
-			f[i] = value % 10;
-			f[i + 1] += (value / 10);
+		for(int i = 0; i < max_length; i++) {
+			int value = A[i] + B[i];
+			A[i] = value % 10;		// 더한 값의 10으로 나눈 나머지가 자리값이 됨
+			A[i + 1] += (value / 10);	// 더한 값의 10으로 나눈 몫이 올림값이 됨
 		}
 		
+		// A배열 역순 출력
+		// 가장 높은 자리수가 0일 수도 있기 때문에 0이 아닐 경우에만 출력
 		StringBuilder sb = new StringBuilder();
-		if(f[f.length - 1] != 0) {
-			sb.append(f[f.length - 1]);
+		if(A[max_length] != 0) {
+			sb.append(A[max_length]);
 		}
 		
-		for(int i = f.length - 2; i >= 0; i--) {
-			sb.append(f[i]);
+		for(int i = max_length - 1; i >= 0; i--) {
+			sb.append(A[i]);
 		}
 		System.out.println(sb);
 	}
