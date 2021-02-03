@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class 요세푸스_문제_0_ver2 {
+public class BOJ_11866 {
 
 	public static void main(String[] args) throws IOException {
 		
