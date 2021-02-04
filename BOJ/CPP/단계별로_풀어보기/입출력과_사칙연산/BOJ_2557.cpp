@@ -2,9 +2,9 @@
 /*
     BOJ 2557 : Hello World
     
-    @Author
-    {@link https://st-lab.tistory.com}
-    {@link https://github.com/kdgyun}
+    author kdgyun
+    link https://st-lab.tistory.com
+    link https://github.com/kdgyun
     Created by kdgyun
     Copyright © 2021 kdgyun. All rights reserved.
  */
