@@ -1,11 +1,13 @@
-//
-//  BOJ 2557 : Hello World
-//  
-//  {@link https://st-lab.tistory.com}
-//  {@link https://github.com/kdgyun}
-//  Created by kdgyun on 2021/01/31.
-//  Copyright © 2021 kdgyun. All rights reserved.
-//
+
+/*
+    BOJ 2557 : Hello World
+    
+    @Author
+    {@link https://st-lab.tistory.com}
+    {@link https://github.com/kdgyun}
+    Created by kdgyun
+    Copyright © 2021 kdgyun. All rights reserved.
+ */
 
 #include <iostream>
 
