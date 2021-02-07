@@ -13,7 +13,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-public class BOJ_2331 {
+public class BOJ_2231 {
 
 	public static void main(String[] args) throws IOException {
 	    
