@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class BOJ__1018 {
+public class BOJ_1018 {
 	
 	public static boolean[][] arr;
 	public static int min = 64;
