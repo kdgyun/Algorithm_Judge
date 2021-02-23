@@ -18,6 +18,7 @@ Project
 
 > - 모든 파일의 제목은 BOJ_문제번호 형식으로 업로드 됩니다.
 > - Java는 Java8을 기준으로 하며, C++는 C++14를 기준으로 풀이됩니다.
+> - BOJ 채점 환경 : https://www.acmicpc.net/help/judge
 > - BOJ 언어 도움말 : https://www.acmicpc.net/help/language
 > - Java8 API : [Java API](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 > - C Library : [C Standard Library](https://en.cppreference.com/w/c/header)
