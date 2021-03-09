@@ -27,6 +27,5 @@ int main(int argc, char const *argv[]) {
     } else {
         cout << "F";
     }
-
     return 0;
 }
