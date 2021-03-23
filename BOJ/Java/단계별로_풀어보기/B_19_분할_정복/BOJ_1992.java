@@ -1,4 +1,15 @@
 package 단계별로_풀어보기.B_19_분할_정복;
+
+/**
+ * BOJ 1992 : 쿼드트리      
+ * 
+ * @author kdgyun
+ * {@link https://st-lab.tistory.com}
+ * {@link https://github.com/kdgyun}
+ *
+ */
+
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
