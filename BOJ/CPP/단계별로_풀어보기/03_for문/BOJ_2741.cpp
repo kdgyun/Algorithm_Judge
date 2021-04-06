@@ -1,5 +1,5 @@
 /*
-	BOJ 2741 : N찍기
+	BOJ 2741 : N 찍기
 
 	author : kdgyun
 	link https://st-lab.tistory.com
