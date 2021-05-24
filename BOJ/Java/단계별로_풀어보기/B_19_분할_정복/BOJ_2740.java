@@ -87,15 +87,22 @@ public class BOJ_2740 {
 	public static int[][] loopMultiply(int[][] A, int[][] B, int size) {
 
 		int res[][] = new int[size][size];
-		for (int i = 0; i < size; i++) {
-			for (int j = 0; j < size; j++) {
-				for (int k = 0; k < size; k++) {
-					res[i][j] += A[i][k] * B[k][j];
+		
+		int r;
+		for (int k = 0; k < size; k++) {
+			for (int i = 0; i < size; i++) {
+				
+				// A(ik) 원소를 고정시켜두고, 그에 대한 B의 k열을 고정시켜 j행을 움직이면서 연산한다.
+				r = A[i][k];			
+				for (int j = 0; j < size; j++) {
+					res[i][j] += r * B[k][j];
 				}
 			}
 		}
 		return res;
 	}
+	
+
 
 	public static int[][] multiply(int[][] A, int[][] B, int size) {
 
