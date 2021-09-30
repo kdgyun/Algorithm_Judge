@@ -19,7 +19,7 @@ Project
 -----------
 <br/>
 
-#### BOJ : 백준 온라인 저지 (BeakJoon Online Judge)  
+#### BOJ : 백준 온라인 저지 (BaekJoon Online Judge)  
 
 
 
