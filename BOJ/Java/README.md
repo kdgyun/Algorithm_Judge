@@ -4,7 +4,7 @@ Project
 <br/><br/>
 
 
-#### 기타 문제 (BeakJoon Online Judge)  
+#### 기타 문제 (BaekJoon Online Judge)  
 
 
 > - 아래에 분류되지 않은 문제들의 소스들이 있습니다.
@@ -14,7 +14,7 @@ Project
 <br/><br/>
 
 
-#### 단계별로 풀어보기 (BeakJoon Online Judge)  
+#### 단계별로 풀어보기 (BaekJoon Online Judge)  
 
 
 
@@ -25,7 +25,7 @@ Project
 <br/><br/>
 
 
-#### 별 찍기 (BeakJoon Online Judge)
+#### 별 찍기 (BaekJoon Online Judge)
 
 
 
