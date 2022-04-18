@@ -19,9 +19,6 @@ int arithmetic_sequence(int num) {
 		return num;
 	} else {
 		cnt = 99;
-		if (num == 1000) { // 예외처리 필수
-			num = 999;
-		}
 
 		for (int i = 100; i <= num; i++) {
 			int hun = i / 100;		 // 백의 자릿수
