@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_02_조건문;
 
 /**
- * BOJ 2480 : 주사위 세
+ * BOJ 2480 : 주사위 세개
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
