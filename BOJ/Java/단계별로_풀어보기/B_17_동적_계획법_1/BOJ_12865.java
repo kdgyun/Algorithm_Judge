@@ -1,7 +1,7 @@
 package 단계별로_풀어보기.B_17_동적_계획법_1;
 
 /**
- * BOJ 1912 : 연속합
+ * BOJ 12865 : 평범한 배낭
  * 
  * @author kdgyun
  * {@link https://st-lab.tistory.com}
